@@ -2,13 +2,13 @@
  "source": "Polymarket",
  "event": "Fed Decision in December?",
  "meetingEndUtc": "2026-12-10T04:59:00Z",
- "asOf": "2026-11-12T07:45:25+00:00",
+ "asOf": "2026-11-12T08:05:27+00:00",
  "cut": 0.6,
  "hold": 3.65,
  "hike": 96.05,
  "vix": 17.49,
  "vixTime": "2026-11-11",
- "us10y": 4.998,
- "us10yTime": "2026-11-12T02:45:05.000-0500",
+ "us10y": 4.994,
+ "us10yTime": "2026-11-12T03:05:10.000-0500",
  "us10yPrev": 4.989
 }
